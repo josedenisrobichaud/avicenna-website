@@ -1,4 +1,4 @@
-baseURL = "https://preeminent-lily-70fb0e.netlify.app/"
+baseURL = "https://example.com"
 
 # set your your own ga token here.
 googleAnalytics = "UA/G-123123-12"
@@ -15,6 +15,11 @@ title = "José Denis-Robichaud"
 # number of posts to show on the blog page
 paginate = 10
 
+# publishing directory
+publishDir = "public"
+
+
+
 [markup]
 [markup.tableOfContents]
 endLevel = 3
@@ -24,3 +29,6 @@ startLevel = 1
 [params]
 # it is used for the copy-right section of your page
 name = "José Denis-Robichaud"
+
+# used favicon image 
+Favicon = "favicon.ico"
