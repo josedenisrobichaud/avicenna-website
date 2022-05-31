@@ -27,7 +27,7 @@ degrees:
 affiliations:
 - affiliation:
     email: josedr@hotmail.ca
-    name: Veterinary preventive medicine and epidemiology consulting
+    name: Veterinary epidemiology consulting
     title: Founder & Principal Consultant
 - affiliation:
     email: jose.denis-robichaud@umontreal.ca
