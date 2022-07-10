@@ -26,18 +26,13 @@ degrees:
 
 affiliations:
 - affiliation:
-    email: mailto:josedr@hotmail.ca
-    name: Veterinary epidemiology consulting
+    email: josedr@hotmail.ca
+    name: Veterinary preventive medicine and epidemiology consulting
     title: Founder & Principal Consultant
 - affiliation:
-    email: mailto:jose.denis-robichaud@umontreal.ca
-    name: Université de Montréal
-    title: Research Advisor
-- affiliation:
-    email: mailto:jose.denisrobichaud@ubc.ca
+    email: jose.denisrobichaud@ubc.ca
     name: University of British Columbia
     title: Postdoctoral Research Fellow
-blog: false
 cv: cv.pdf
 date: "2022-04-29"
 draft: false

@@ -7,7 +7,7 @@ news_items:
 - date: "2022-08-18"
   extra_text: August 2022 - Étude des canaux de communication Une Seule Santé lors d’un cas humain d’influenza porcin.
   link: https://www.epiter.org/spip/Congres-Epiter-Adelf-Quebec-2021
-  text: Présentation au Congrès International d’Épidémiologie EPITER-ADELF (Québec, Canada)
+  text: Présentation Congrès International d’Épidémiologie EPITER-ADELF (Québec, Canada)
   icon: users
 - date: "2022-06-27"
   extra_text: June 2022 - Factors associated with embryo fertilization and quality in dairy cows.
@@ -23,7 +23,7 @@ news_items:
   extra_text: March 2022 - Du coq à l'âne (en français).
   icon: film
   link: https://baladoquebec.ca/du-coq-a-l-ane-le-podcast-des-docteurs-embetants/episode-12-dre-jose-denis-robichaud-veterinaire-vaches-vent-vagues-van-life-voila
-  text: Eclectic podcast about my path from veterinarian to nomad epidemiologist
+  text: Eclectic podcast about my path from veterinarian to epidemiologist
 - date: "2021-12-15"
   extra_text: a kitesurfing short film.
   icon: youtube
