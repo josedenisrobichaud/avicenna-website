@@ -4,6 +4,11 @@ default_news_icon: file-text
 draft: false
 headless: true
 news_items:
+- date: "2022-07-24"
+  extra_text: sailing and kiting in the Caribbean.
+  icon: youtube
+  link: https://youtu.be/P6FVHDINvog
+  text: The ultimate kitecruise
 - date: "2022-08-18"
   extra_text: August 2022 - Étude des canaux de communication Une Seule Santé lors d’un cas humain d’influenza porcin.
   link: https://www.epiter.org/spip/Congres-Epiter-Adelf-Quebec-2021

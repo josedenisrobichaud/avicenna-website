@@ -33,6 +33,9 @@ affiliations:
     email: jose.denisrobichaud@ubc.ca
     name: University of British Columbia
     title: Postdoctoral Research Fellow
+- affiliation:
+    name: Groupe de Recherche en Épidémiologie des Zoonoses et Santé Publique
+    title: Membre Associé du GREZOSP
 cv: cv.pdf
 date: "2022-04-29"
 draft: false

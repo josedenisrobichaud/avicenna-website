@@ -12,3 +12,7 @@ section_settings:
 ---
 
 home/projects.md
+
+
+
+
