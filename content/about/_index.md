@@ -58,5 +58,5 @@ socials:
 title: about
 ---
 
-I am a veterinary epidemiologist researcher, a diplomate of the American College of Veterinary Preventive Medicine ([ACVPM](https://acvpm.org/default.aspx)), and associate member of the GREZOSP ([Groupe de Recherche en Épidémiologie des Zoonoses et Santé Publique](https://http://grezosp.com)). I am working with multiple research groups with the ultimate goal to integrate the One Health concepts into diverse contexts, from population animal health to public health. 
+I am a veterinary epidemiologist researcher, a diplomate of the American College of Veterinary Preventive Medicine ([ACVPM](https://acvpm.org/default.aspx)), and associate member of the GREZOSP ([Groupe de Recherche en Épidémiologie des Zoonoses et Santé Publique](http://grezosp.com)). I am working with multiple research groups with the ultimate goal to integrate the One Health concepts into diverse contexts, from population animal health to public health. 
 
