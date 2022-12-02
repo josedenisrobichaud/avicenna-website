@@ -1,5 +1,5 @@
 ---
-title: "Accuracy of luminometry to detectm inflammation in dairy cattle"
+title: "Accuracy of luminometry to detect inflammation in dairy cattle"
 
 summary: "Study assessing the accuracy of luminometry to diagnose reproductive and udder inflammation."
 
