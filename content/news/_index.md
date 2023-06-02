@@ -10,17 +10,17 @@ news_items:
   link: https://www.adsa.org/Portals/0/SiteContent/Docs/Meetings/2023ADSA/2023_ADSA_Program.pdf
   text: Presentation at the ADSA annual meeting (Ottawa, Canada)
 - date: "2023-04-05"
-  extra_text: canaux de communication Une Seule Santé.
+  extra_text: (FR) avril 2023 - canaux de communication Une Seule Santé.
   icon: youtube
   link: https://youtu.be/JRG9YxX1tX8
   text: Conférence web CP-EPITER
 - date: "2022-11-01"
-  extra_text: en collaboration avec Les Producteurs Laitiers du Canada.
+  extra_text: (FR) novembre 2022 - en collaboration avec Les Producteurs Laitiers du Canada.
   icon: mic
   link: https://open.spotify.com/show/2SlOSlxjARKslPcE0NrdnL
   text: Balado sur le bien-être animal et la biosécurité dans les fermes laitières
 - date: "2022-03-21"
-  extra_text: March 2022 - Du coq à l'âne (en français).
+  extra_text: (FR) mars 2022 - Du coq à l'âne.
   icon: film
   link: https://baladoquebec.ca/du-coq-a-l-ane-le-podcast-des-docteurs-embetants/episode-12-dre-jose-denis-robichaud-veterinaire-vaches-vent-vagues-van-life-voila
   text: Eclectic podcast about my path from veterinarian to epidemiologist
