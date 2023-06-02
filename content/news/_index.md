@@ -21,7 +21,7 @@ news_items:
   text: Balado sur le bien-être animal et la biosécurité dans les fermes laitières
 - date: "2022-03-21"
   extra_text: March 2022 - Du coq à l'âne (en français).
-  icon: film
+  icon: microphone
   link: https://baladoquebec.ca/du-coq-a-l-ane-le-podcast-des-docteurs-embetants/episode-12-dre-jose-denis-robichaud-veterinaire-vaches-vent-vagues-van-life-voila
   text: Eclectic podcast about my path from veterinarian to epidemiologist
 
