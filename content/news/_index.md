@@ -16,12 +16,12 @@ news_items:
   text: Conférence web CP-EPITER
 - date: "2022-11-01"
   extra_text: en collaboration avec Les Producteurs Laitiers du Canada.
-  icon: microphone
+  icon: mic
   link: https://open.spotify.com/show/2SlOSlxjARKslPcE0NrdnL
   text: Balado sur le bien-être animal et la biosécurité dans les fermes laitières
 - date: "2022-03-21"
   extra_text: March 2022 - Du coq à l'âne (en français).
-  icon: microphone
+  icon: film
   link: https://baladoquebec.ca/du-coq-a-l-ane-le-podcast-des-docteurs-embetants/episode-12-dre-jose-denis-robichaud-veterinaire-vaches-vent-vagues-van-life-voila
   text: Eclectic podcast about my path from veterinarian to epidemiologist
 
