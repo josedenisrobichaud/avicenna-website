@@ -8,12 +8,12 @@ authors:
 - C. Aenishaenslin 
 - L. Richard 
 
-date: "2023-08-01"
+date: "2023-09-01"
 
 publication: "Canadian Veterinary Journal"
 
 links:
-    in press: https://www.canadianveterinarians.net/journals-and-classified-ads/the-canadian-veterinary-journal/
+    article: https://www.canadianveterinarians.net/journals-and-classified-ads/the-canadian-veterinary-journal/
     
 tags:
   - animal health workers
