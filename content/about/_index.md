@@ -53,7 +53,8 @@ socials:
   instagram: "nomadinthewind"
   github: "josedenisrobichaud" 
   orcid: "0000-0002-7742-0631"
-  the_lens: "549561403"
+  lens: "549561403"
+  dataverse: "josedr"
 
 
 title: about
