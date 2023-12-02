@@ -4,11 +4,6 @@ default_news_icon: file-text
 draft: false
 headless: true
 news_items:
-- date: "2023-06-28"
-  extra_text: June 2023 - How long is the estrous cycle of dairy cows?
-  icon: users
-  link: https://www.adsa.org/Portals/0/SiteContent/Docs/Meetings/2023ADSA/2023_ADSA_Program.pdf
-  text: Presentation at the ADSA annual meeting (Ottawa, Canada)
 - date: "2023-04-05"
   extra_text: (FR) avril 2023 - canaux de communication Une Seule Santé.
   icon: youtube
