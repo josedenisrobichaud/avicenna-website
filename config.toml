@@ -32,3 +32,9 @@ name = "José Denis-Robichaud"
 
 # used favicon image 
 Favicon = "favicon.ico"
+
+# additional social links
+  [params.social]
+    lens = "https://www.lens.org/lens/profile/"
+    dataverse = "https://dataverse.harvard.edu/dataverse/"
+
