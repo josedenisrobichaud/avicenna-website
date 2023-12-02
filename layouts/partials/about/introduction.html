@@ -46,6 +46,8 @@
         {{ $orcid := index $aboutPage.Params.socials "orcid"}}
         {{ $github := index $aboutPage.Params.socials "github"}}
         {{ $linkedin := index $aboutPage.Params.socials "linkedin"}}
+        {{ $lens := index $aboutPage.Params.socials "lens"}}
+        {{ $dataverse := index $aboutPage.Params.socials "dataverse"}}
         {{ $cv := $aboutPage.Params.cv }}
         {{ $blog := $aboutPage.Params.blog}}
 
@@ -89,6 +91,18 @@
         {{ if $linkedin }}
         <a class="main_color" rel="me" href='https://linkedin.com/in/{{$linkedin}}' target="_blank">
             <i data-feather="linkedin"></i>
+        </a>
+        {{end}}
+
+        {{ if $lens }}
+        <a class="main_color" rel="me" href='https://www.lens.org/lens/profile/{{$linkedin}}' target="_blank">
+            <i class="ai ai-2x ai-lens academic_icons_customize"></i>
+        </a>
+        {{end}}
+
+        {{ if $dataverse }}
+        <a class="main_color" rel="me" href='https://linkedin.com/in/{{$linkedin}}' target="_blank">
+            <i class="ai ai-2x ai-dataverse academic_icons_customize"></i>
         </a>
         {{end}}
 
