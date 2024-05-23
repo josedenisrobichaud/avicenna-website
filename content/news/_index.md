@@ -9,11 +9,16 @@ news_items:
   icon: youtube
   link: https://youtu.be/JRG9YxX1tX8
   text: Conférence web CP-EPITER
-- date: "2022-11-01"
-  extra_text: (FR) novembre 2022 - en collaboration avec Les Producteurs Laitiers du Canada.
+- date: "2023-11-01"
+  extra_text: (FR) novembre 2023 - en collaboration avec Les Producteurs Laitiers du Canada.
   icon: mic
-  link: https://open.spotify.com/show/2SlOSlxjARKslPcE0NrdnL
-  text: Balado sur le bien-être animal et la biosécurité dans les fermes laitières
+  link: https://open.spotify.com/episode/76AgdPJaQDrXoxpTNhaVJU?si=KpSraQQQQ2S5k3781Kq9Iw
+  text: Balado sur la santé des sols avec Marie-Élise Samson
+- date: "2023-11-02"
+  extra_text: (FR) novembre 2023 - en collaboration avec Les Producteurs Laitiers du Canada.
+  icon: mic
+  link: https://open.spotify.com/episode/76AgdPJaQDrXoxpTNhaVJU?si=KpSraQQQQ2S5k3781Kq9Iw
+  text: Balado sur l'exercice et le mouvement pour les vaches laitières
 - date: "2022-03-21"
   extra_text: (FR) mars 2022 - Du coq à l'âne.
   icon: film
