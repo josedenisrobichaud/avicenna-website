@@ -29,10 +29,6 @@ affiliations:
     email: josedr@hotmail.ca
     name: Veterinary preventive medicine and epidemiology consulting
     title: Founder & Principal Consultant
-- affiliation:
-    email: jose.denisrobichaud@ubc.ca
-    name: University of British Columbia
-    title: Postdoctoral Research Fellow
 cv: cv.pdf
 date: "2022-04-29"
 draft: false
