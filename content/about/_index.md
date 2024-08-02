@@ -3,6 +3,7 @@ academia:
 - course:
     degree: Postdoctoral Fellowship
     institution: University of British Columbia
+    major: 
     start_date: "2020"
     end_date: "2024"
 - course:
