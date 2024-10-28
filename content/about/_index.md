@@ -28,7 +28,7 @@ degrees:
 - DVM
 - MSc
 - PhD
-- DACVPM
+- Dipl. ACVPM
 
 affiliations:
 - affiliation:
