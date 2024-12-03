@@ -4,6 +4,11 @@ default_news_icon: file-text
 draft: false
 headless: true
 news_items:
+- date: "2024-11-25"
+  extra_text: november 2024 - One Health communication channels.
+  icon: youtube
+  link: https://youtu.be/zpPxRdOYkOw?si=RPmj75QJbRO5dvax
+  text: Global One Health Network Webinar
 - date: "2023-04-05"
   extra_text: (FR) avril 2023 - canaux de communication Une Seule Santé.
   icon: youtube
