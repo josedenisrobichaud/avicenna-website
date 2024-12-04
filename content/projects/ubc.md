@@ -1,5 +1,5 @@
 ---
-title: "Integrating genomic approaches to improve dairy cattle resilience: A comprehensive goal to enhance Canadian dairy industry sustainability"
+title: "Integrating genomic approaches to improve dairy cattle resilience"
 
 summary: "Study exploring reproductive phenotypes using automated activity monitors."
 
