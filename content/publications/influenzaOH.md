@@ -18,6 +18,7 @@ publication: "BMC Public Health"
 
 links:
     article: https://doi.org/10.1186/s12889-024-18460-7
+    G1HN: https://global1hn.ca/workshops/
     
 tags:
   - One Health
